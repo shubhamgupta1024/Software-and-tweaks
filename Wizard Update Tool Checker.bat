@@ -17,6 +17,5 @@ if %errorlevel% neq 0 (
 chcp 65001 >nul 2>&1
 copy /y "C:\bat\Software-and-tweaks-main\WizardTool.exe" "%USERPROFILE%\Desktop\WizardTool.exe"
 start "" "%USERPROFILE%\Desktop\WizardTool.exe"
-pause
 del "%temp%\repo.zip" >nul 2>&1
 rmdir /s /q "C:\bat\"
