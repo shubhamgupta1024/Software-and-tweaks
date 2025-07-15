@@ -12,6 +12,10 @@ Temp spo not working Right now it will work on next update
 ## Turn Off Defender id detect it..
 
 # Features:-
+Disk Changer
+Activate All Widnows
+woofer
+latency Checker
 
 <img width="976" height="511" alt="image" src="https://github.com/user-attachments/assets/8845bb88-5619-4f7a-bd88-9e99446ae052" />
 
